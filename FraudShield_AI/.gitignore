@@ -1,0 +1,15 @@
+# Data files (keep large datasets out of Git)
+data/*.csv
+
+# Python
+__pycache__/
+*.py[cod]
+.venv/
+venv/
+
+# Jupyter
+.ipynb_checkpoints/
+
+# Generated artifacts
+models/*.joblib
+outputs/*.csv
