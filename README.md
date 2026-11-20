@@ -7,12 +7,12 @@ A CA-ready Jupyter Notebook project using the supplied credit-card transaction d
 ```text
 Credit Card Fraud Detection/
 ├── data/
-│   ├── creditcard.csv              # add your original uploaded dataset here
-│   └── creditcard_clean.csv        # optional comparison dataset
+│   ├── creditcard.csv              
+│   └── creditcard_clean.csv        
 ├── notebooks/
 │   └── Analysis.ipynb
-├── models/                         # trained model saved here
-├── outputs/                        # metrics and comparisons saved here
+├── models/                         
+├── outputs/                        
 ├── requirements.txt
 └── README.md
 ```
@@ -42,7 +42,7 @@ If you use Anaconda, you can install the same requirements into your environment
 jupyter notebook
 ```
 
-Open `notebooks/FraudShield_AI_Complete_Analysis.ipynb` and run cells from top to bottom.
+Open `notebooks/Analysis.ipynb` and run cells from top to bottom.
 
 ## 4. Important methodology
 
