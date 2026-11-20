@@ -1,16 +1,16 @@
-# FraudShield AI — Credit Card Fraud Detection & Predictive Risk Analysis
+# Credit Card Fraud Detection & Predictive Risk Analysis
 
 A CA-ready Jupyter Notebook project using the supplied credit-card transaction dataset.
 
 ## Folder structure
 
 ```text
-FraudShield_AI/
+Credit Card Fraud Detection/
 ├── data/
 │   ├── creditcard.csv              # add your original uploaded dataset here
 │   └── creditcard_clean.csv        # optional comparison dataset
 ├── notebooks/
-│   └── FraudShield_AI_Complete_Analysis.ipynb
+│   └── Analysis.ipynb
 ├── models/                         # trained model saved here
 ├── outputs/                        # metrics and comparisons saved here
 ├── requirements.txt
